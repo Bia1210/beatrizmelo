@@ -1,6 +1,6 @@
 # Olá, eu sou a Beatriz Cavalcante! 👋
 
-Estudante do **Curso Técnico em Inteligência Artificial**, apaixonada por Ciência de Dados, Aprendizado de Máquina (Machine & Deep Learning) e desenvolvimento de soluções orientadas a dados e automações.
+Estudante do **Curso Técnico em Inteligência Artificial**, apaixonada por Ciência de Dados, Aprendizado de Máquina (Machine & Deep Learning), Processamento de Linguagem Natural e desenvolvimento de soluções orientadas a dados e automações.
 
 ---
 
@@ -8,16 +8,20 @@ Estudante do **Curso Técnico em Inteligência Artificial**, apaixonada por Ciê
 
 - **Linguagens:** Python, SQL
 - **Ciência de Dados & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch
+- **IA & Linguagem Natural:** Processamento de Linguagem Natural (PLN / NLP), Chatbots, Integrações de APIs
 - **Bancos de Dados & BI:** SQL Server, Power BI
 - **Ambientes & Ferramentas:** VS Code, Google Colab, Jupyter Notebook, Git/GitHub
+
 ---
 
-## 📌 Projeto em Destaque
-- 📊 **[Predição de Cancelamento de Assinaturas (Churn)](https://github.com/Bia1210/predicao-churn-streaming)** 
+## 📌 Projetos em Destaque
+
+- 📊 **[Predição de Cancelamento de Assinaturas (Churn)](https://github.com/Bia1210/predicao-churn-streaming)**  
   Análise exploratória de dados e modelo preditivo de Machine Learning para identificar riscos de cancelamento em plataformas de streaming. Inclui **Relatório Técnico de Negócio**.
 
 - 🤖 **[Chatbot Lanchonete Express](https://github.com/Bia1210/chatbot-telegram-lanchonete)**  
   Desenvolvimento de assistente virtual interativo utilizando Python e a API do Telegram para automação de atendimento e gestão de pedidos via Processamento de Linguagem Natural.
+
 ---
 
 ## 📬 Vamos nos conectar?
