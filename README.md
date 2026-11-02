@@ -10,13 +10,14 @@ Estudante do **Curso Técnico em Inteligência Artificial**, apaixonada por Ciê
 - **Ciência de Dados & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch
 - **Bancos de Dados & BI:** SQL Server, Power BI
 - **Ambientes & Ferramentas:** VS Code, Google Colab, Jupyter Notebook, Git/GitHub
-
 ---
 
 ## 📌 Projeto em Destaque
 - 📊 **[Predição de Cancelamento de Assinaturas (Churn)](https://github.com/Bia1210/predicao-churn-streaming)** 
   Análise exploratória de dados e modelo preditivo de Machine Learning para identificar riscos de cancelamento em plataformas de streaming. Inclui **Relatório Técnico de Negócio**.
 
+- 🤖 **[Chatbot Lanchonete Express](https://github.com/Bia1210/chatbot-telegram-lanchonete)** *(Ou o nome do seu repositório)*  
+  Desenvolvimento de assistente virtual interativo utilizando Python e a API do Telegram para automação de atendimento e gestão de pedidos via Processamento de Linguagem Natural.
 ---
 
 ## 📬 Vamos nos conectar?
